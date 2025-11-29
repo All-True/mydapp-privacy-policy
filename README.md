@@ -1,0 +1,1 @@
+# mydapp-privacy-policy
