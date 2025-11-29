@@ -1,6 +1,6 @@
 📄 PRIVACY POLICY (MyDAPP)
 
-Last updated: [Insert Date]
+Last updated: [29/11/2025]
 
 This Privacy Policy describes how MyDAPP, developed by LYE CHEE KEIN, collects, uses, and protects your information when you use our mobile application.
 
